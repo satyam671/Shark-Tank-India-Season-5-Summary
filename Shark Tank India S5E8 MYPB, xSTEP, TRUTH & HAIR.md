@@ -222,7 +222,7 @@ This structure enables leveraging US research ecosystem (funding, talent, regula
 
 **Original Ask:** ₹1 crore for 1% equity (₹100 crore valuation)
 
-**Final Outcome:** NO DEAL (reported in some sources as deal uncertain)
+**Final Outcome:** Closed a deal for ₹1 Crore for 10% equity (subject to due diligence) with Sharks Namita Thapar, Vineeta Singh, and Kunal Bahl.
 
 **Sharks' Hesitation:**
 
@@ -384,7 +384,7 @@ The vision extends beyond products to building community of curly-haired individ
 
 **Original Ask:** ₹1 crore for 2.5% equity (₹40 crore valuation)
 
-**Final Outcome:** Deal status unclear in available sources
+**Final Outcome:** Secured a ₹2.5 crore investment for 25% equity from Varun Alagh (Mamaearth) (₹10 crore valuation)
 
 **Potential Shark Interest:**
 - **Vineeta Singh:** Follows Saumya on social media, expressed admiration for energy
@@ -497,8 +497,8 @@ Despite potential conflict with Mamaearth portfolio, Varun might invest because:
 
 **Deals:**
 - **MYPB:** ₹70L from Varun, Namita, Vineeta at ₹4.67Cr valuation ✅
-- **xStep:** No Deal (noble cause but investment misfit) ❌
-- **Truth & Hair:** Status unclear in sources ❓
+- **xStep:**  ₹1 crore for 10% equity
+- **Truth & Hair:** ₹2.5 crore for 25% equity at ₹10 crore valuation ✅
 
 ### Thematic Unity: Innovation Across Wellness Spectrum
 
@@ -547,8 +547,8 @@ Each pitch bridged gaps in existing markets, validating that innovation opportun
 | Business | Ask Valuation | Final Valuation | Haircut | Reasoning |
 |----------|---------------|-----------------|---------|-----------|
 | **MYPB** | ₹7 Cr | ₹4.67 Cr | 33% | Early stage, competitive FMCG space |
-| **xStep** | ₹100 Cr | N/A (No Deal) | N/A | Deep-tech risk, long timelines |
-| **Truth & Hair** | ₹40 Cr | TBD | TBD | Pending deal confirmation |
+| **xStep** | ₹100 Cr | ₹10 cr | 10% | Deep-tech risk, long timelines |
+| **Truth & Hair** | ₹40 Cr | ₹10 cr | 25% | deal confirmed |
 
 **Valuation Lessons:**
 
