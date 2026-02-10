@@ -1,4 +1,4 @@
-**Shark Tank India Season 5 - Episode 16: "Flavours, Freshness And Future"**
+# Shark Tank India Season 5 - Episode 16: "Flavours, Freshness And Future"
 
 **Air Date:** January 28, 2026
 
@@ -6,13 +6,13 @@
 
 **Sharks Panel:** Namita Thapar, Ritesh Agarwal, Anupam Mittal, Aman Gupta, Amit Jain
 
-**Episode Overview**
+## **Episode Overview**
 
 Episode 16 brought together three distinct innovations representing India's evolving consumer and education landscape: functional wellness-driven bakery products, natural personal care solutions, and immersive technology-based learning. The episode's theme "Flavours, Freshness And Future" captured how traditional categories—food, personal care, education—are being reimagined through health consciousness, clean ingredients, and cutting-edge technology.
 
 Two out of three startups secured deals, with one featuring a unique royalty structure, demonstrating Sharks' creative deal-making approaches for businesses at different maturity stages.
 
-**PITCH 1: AWSUM - Functional Bakery with Indian Ingredients**
+## **PITCH 1: AWSUM - Functional Bakery with Indian Ingredients**
 
 **1\. Business Snapshot**
 
@@ -468,7 +468,7 @@ Accepting Namita + Ritesh joint deal at ₹75 crore valuation vs. potentially hi
 
 Awsum demonstrates that functional foods succeeding requires exceptional taste (non-negotiable), clean label transparency (trust-building), strategic timing (Ayurveda mainstreaming, clean eating trend), and distribution muscle (Ritesh's OYO networks). The future of food isn't choosing health OR indulgence—it's both simultaneously. Startups positioning at this intersection, backed by complementary investors, capture premium pricing and category leadership.
 
-**PITCH 2: PHITKU - Natural Alum Crystal Roll-On Deodorant**
+## **PITCH 2: PHITKU - Natural Alum Crystal Roll-On Deodorant**
 
 **1\. Business Snapshot**
 
@@ -1045,7 +1045,7 @@ Phitku accepted 5% royalty because founders confident revenue will grow fast eno
 
 Phitku demonstrates that traditional Indian ingredients (alum), when modernized (roll-on format) and positioned scientifically (bacteria elimination), can capture premium market share in conventional categories (deodorants). The royalty deal structure shows creative financial engineering when founders and investors disagree on valuation—compromise that protects both parties. Success requires exceptional traction (₹14 cr in 10 months), high repeat rates (product efficacy), and strategic investors (Aman + Anupam) providing complementary expertise. Future of personal care is natural, clean, science-backed solutions replacing chemical cosmetics.
 
-**PITCH 3: 9DXR LABS - VR-Powered Science Education Platform**
+## **PITCH 3: 9DXR LABS - VR-Powered Science Education Platform**
 
 **1\. Business Snapshot**
 
@@ -1632,7 +1632,7 @@ Instead of selling complete VR labs (capital-intensive, long sales cycles), lice
 
 9DXR Labs demonstrates gap between **impressive technology and investable business**. VR's educational potential is undeniable, but current market faces adoption barriers: school budgets, long sales cycles, unproven learning outcomes, hardware costs, teacher training. Sharks declining despite acknowledging innovation signals that pioneering uncertain categories requires extraordinary patience and capital—more than early-stage venture investment typically provides. For EdTech hardware startups, proving business model (school renewals, learning outcome data, profitable unit economics) before raising institutional capital is critical. Sometimes, best strategy is bootstrapping until market readiness catches up to technological readiness.
 
-**EPISODE SUMMARY & INSIGHTS**
+## **EPISODE SUMMARY & INSIGHTS**
 
 **Episode Theme: "Flavours, Freshness And Future"**
 
